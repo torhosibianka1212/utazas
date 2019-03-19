@@ -1,0 +1,45 @@
+body{
+	margin: 20px auto;
+	padding: 0 10px;
+	width: 80%;
+	font-size: 14pt;
+	color: #00008B;
+	font-family: Sans-serif, serif;
+	background-image: url('vilagterkep.jpg');
+}
+h1{
+	
+}
+#felkovert{
+	font-weight: bold;
+}
+#bal{
+	width:25%;
+	float: left;
+	margin-right:15px;
+}
+div{
+	text-align:center;
+}
+table{
+		background-color:#C4F4FD;
+		border:none;
+		width:60%;
+}
+#alcim{
+	text-align:center;
+	font-size:36pt;
+}
+#cim{
+	text-align:center;
+	font-size:60pt;
+}
+#varos{
+	padding-bottom:20px;
+}
+table tr td:last-child{
+	text-align:rigth;
+}
+
+
+
